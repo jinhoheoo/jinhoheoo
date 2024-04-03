@@ -39,11 +39,19 @@
 
 #### 💾 SMPS
 
-설 명 : STM32와 초음파 센서를 이용한 자율 주행 자동차
+설 명 : 회로설계부터 레이아웃으로 실제 기판을 제작하여 만든 SMPS
 
-사용 기술 : STM32, C, RTOS
+사용 기술 : ORCAD, PADS
 
-<a href="https://github.com/jinhoheoo/autonomous_car">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://github.com/jinhoheoo/SMPS">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+
+#### 💾 BLDC MOTOR CONTROLLER
+
+설 명 : 회로설계부터 레이아웃으로 실제 기판을 제작하여 만든 BLDC MOTOR CONTROLLER
+
+사용 기술 : ORCAD, PADS, ATMEL STUDIO, C
+
+<a href="https://github.com/jinhoheoo/bldc-motor-controller">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
 
 #### 💾 자율 주행 자동차
@@ -55,31 +63,15 @@
 <a href="https://github.com/jinhoheoo/autonomous_car">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
 
-#### 💾 유사 댓글을 이용한 게임 추천
+#### 💾 맛집 추천시스템
 
 설 명 : 네이버 리뷰를 이용하여 맛집을 추천
 
-사용 기술 : 자연어 처리, PyQt
+사용 기술 : 자연어 처리, PyQt 
 
 <a href="https://github.com/jinhoheoo/food_recommendation_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
 
-#### 💾 C# WinForm을 이용한 Serial 통신 앱 제작
-
-설 명 : C# WinForm을 이용한 프로그램과 Serial 통신으로 데이터 수집
-
-사용 기술 : STM32, C#, WinForm, Window SQL
-
-<a href="https://github.com/youngbin-son/CS_serial_project.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
-
-
-#### 💾 Beauty GAN을 이용한 화장품 미리보기 앱
-
-설 명 : Beauty GAN model을 이용하여 원하는 화장을 자기 얼굴에 적용시키는 프로그램 제작
-
-사용 기술 : PyQt, OpenCV, OpenVino, TensorFlow
-
-<a href="https://github.com/Doyun05/Olive_Old.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
 
 
