@@ -5,8 +5,8 @@
 
 ## 💬 Greetings
 ### 항상 좋을 일만 가득하세요!
+
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doyun05)](https://github.com/anuraghazra/github-readme-stats)
     
 ## 🐾 My Skiils 🐾
 ![a](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
@@ -28,9 +28,11 @@
 ![a](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) 
 ![b](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![c](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) 
+<br>
 ![d](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
 ![e](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
-![f](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
+![f](https://img.shields.io/badge/Microchip_Studio-CB171E?style=for-the-badge&logo=microchip&logoColor=white)
+![g](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
 
 
 ## 📅 My Project
