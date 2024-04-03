@@ -35,7 +35,7 @@
 ![g](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
 
 
-## 📅 My Project
+##  My Project
 
 #### 💾 SMPS
 
