@@ -54,9 +54,9 @@
 <a href="https://github.com/jinhoheoo/bldc-motor-controller">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
 
-#### 💾 자율 주행 자동차
+#### 💾 초음파 센서를 이용한 RC카
 
-설 명 : STM32와 초음파 센서를 이용한 자율 주행 자동차
+설 명 : STM32와 초음파 센서를 이용한 RC카
 
 사용 기술 : STM32, C, RTOS
 
