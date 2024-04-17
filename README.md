@@ -62,6 +62,15 @@
 
 <a href="https://github.com/jinhoheoo/autonomous_car">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
+#### 💾 COCO-FRIEND
+
+설 명 : 얼굴 표정 인식 및 음성 인식을 통해 답변을 음성으로 주는 아이 친구  
+
+사용 기술 : Python, LLM, STT, TTS, OpenCV, Object Detection,Classification
+
+<a href="https://github.com/jinhoheoo/coco-friend-project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+
+
 #### 💾 TCP/IP_IOT
 
 설 명 : TCP/IP 통신으로 서버와 클라이언트를 구축하여 IOT제어
@@ -79,13 +88,7 @@
 
 <a href="https://github.com/jinhoheoo/food_recommendation_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
-#### 💾 COCO-FRIEND
 
-설 명 : 얼굴 표정 인식 및 음성 인식을 통해 답변을 음성으로 주는 아이 친구  
-
-사용 기술 : Python, LLM, STT, TTS, OpenCV, Object Detection,Classification
-
-<a href="https://github.com/jinhoheoo/coco-friend-project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
 
 
